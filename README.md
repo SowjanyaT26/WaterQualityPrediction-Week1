@@ -1,1 +1,1 @@
-# WaterQualityPrediction-Week1
+# WaterQualityPrediction
